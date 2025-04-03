@@ -6,7 +6,7 @@ operacao = input("Digite a operação desejada (+, -, *, /): ")
 if operacao == "+":
     resultado = num1 + num2
 elif operacao == "-":
-    resultado(abs = (num1 - num2))
+    resultado(abs = num1 - num2)
 elif operacao == "*":
     resultado = num1 * num2
 elif operacao == "/":
