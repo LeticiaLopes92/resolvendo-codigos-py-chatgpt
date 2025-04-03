@@ -4,14 +4,14 @@ num2 = int(input("Digite o segundo número: "))
 
 operacao = input("Digite a operação desejada (+, -, *, /): ")
 if operacao == "+":
-    resultado = num1 + num2
+    print (num1 + num2)
 elif operacao == "-":
-    resultado(abs = num1 - num2)
+   print (abs(num1 - num2))
 elif operacao == "*":
-    resultado = num1 * num2
+    print (num1 * num2)
 elif operacao == "/":
     if num2 != 0:
-        resultado = num1 / num2
+        print (num1 / num2)
     else:
         resultado = "Erro: Divisão por zero não é permitida."
 else:
