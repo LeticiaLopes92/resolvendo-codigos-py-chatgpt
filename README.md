@@ -1,4 +1,4 @@
-# Exércio Desafio de Projeto para obter a certificação Github da Dio
+# Exercício Desafio de Projeto para obter a certificação Github da Dio
 # Resolvendo Códigos em Python com o Github Copilot ou ChatGPT
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
